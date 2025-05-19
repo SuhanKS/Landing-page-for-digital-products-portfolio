@@ -1,7 +1,7 @@
 export default function SpotifySvg() {
   return (
     <svg
-      class="h-9 hover:text-gray-900 dark:hover:text-white"
+      className="h-9 hover:text-gray-900 dark:hover:text-white"
       viewBox="0 0 124 38"
       fill="currentColor"
       xmlns="http://www.w3.org/2000/svg"
