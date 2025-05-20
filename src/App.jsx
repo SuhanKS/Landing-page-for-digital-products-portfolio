@@ -1,5 +1,6 @@
 import "./App.css";
 import CompanyLogo from "./component/CopanyLogos";
+import Faq from "./component/Faq";
 import Header from "./component/Header";
 import Hero from "./component/Hero";
 import Pricing from "./component/Pricing";
@@ -17,6 +18,7 @@ function App() {
       <Service2></Service2>
       <Testimonial></Testimonial>
       <Pricing></Pricing>
+      <Faq></Faq>
     </>
   );
 }
