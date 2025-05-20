@@ -7,6 +7,7 @@ import Pricing from "./component/Pricing";
 import Service1 from "./component/Service1";
 import Service2 from "./component/Service2";
 import Testimonial from "./component/Testimonial";
+import Trial from "./component/Trial";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <Testimonial></Testimonial>
       <Pricing></Pricing>
       <Faq></Faq>
+      <Trial></Trial>
     </>
   );
 }
