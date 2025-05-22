@@ -1,5 +1,5 @@
 import GoughImg from "../assets/michael-gouch.png";
-import QouteSvg from "./icon/qouteSvg";
+import QouteSvg from "./icons/qouteSvg";
 
 export default function Testimonial() {
   return (

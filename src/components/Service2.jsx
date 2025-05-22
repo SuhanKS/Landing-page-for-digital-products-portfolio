@@ -1,8 +1,8 @@
-import ArrowSvg from "./icon/arrowSvg";
-import Sv21Svg from "./icon/sv21Svg";
-import Sv22Svg from "./icon/sv22Svg";
-import Sv23Svg from "./icon/sv23Svg";
-import Sv24Svg from "./icon/sv24Svg";
+import ArrowSvg from "./icons/arrowSvg";
+import Sv21Svg from "./icons/sv21Svg";
+import Sv22Svg from "./icons/sv22Svg";
+import Sv23Svg from "./icons/sv23Svg";
+import Sv24Svg from "./icons/sv24Svg";
 
 function Child2({ Svg, heading, description }) {
   return (

@@ -1,4 +1,4 @@
-import PriceRightSvg from "./icon/priceRightSvg";
+import PriceRightSvg from "./icons/priceRightSvg";
 
 function PriceCard({
   title,

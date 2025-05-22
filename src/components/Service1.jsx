@@ -1,6 +1,6 @@
 import featureImg1 from "../assets/feature-1.png";
 import featureImg2 from "../assets/feature-2.png";
-import RightmarkSvg from "./icon/rightmarkSvg";
+import RightmarkSvg from "./icons/rightmarkSvg";
 
 function ChildList1({ text }) {
   return (

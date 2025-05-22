@@ -1,6 +1,6 @@
 import heroImg from "../assets/hero.png";
-import FigmaSvg from "./icon/figmaSvg";
-import GithubSvg from "./icon/githubSvg";
+import FigmaSvg from "./icons/figmaSvg";
+import GithubSvg from "./icons/githubSvg";
 export default function Hero() {
   return (
     <section className="bg-white dark:bg-gray-900">

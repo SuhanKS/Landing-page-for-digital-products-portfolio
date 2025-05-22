@@ -1,5 +1,5 @@
-import DownArrowSvg from "./icon/downArrowSvg";
-import UpArrowSvg from "./icon/upArrowSvg";
+import DownArrowSvg from "./icons/downArrowSvg";
+import UpArrowSvg from "./icons/upArrowSvg";
 function ChildFaq({ ques, ans, serial }) {
   return (
     <>

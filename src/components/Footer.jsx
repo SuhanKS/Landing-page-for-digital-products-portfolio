@@ -1,9 +1,9 @@
 import LogoImg from "../assets/logo.svg";
-import DribbleSvg from "./icon/dribbleSvg";
-import FacebookSvg from "./icon/facebookSvg";
-import GithubSvg2 from "./icon/githubSvg2";
-import InstaSvg from "./icon/instaSvg";
-import TwitterSvg from "./icon/twitterSvg";
+import DribbleSvg from "./icons/dribbleSvg";
+import FacebookSvg from "./icons/facebookSvg";
+import GithubSvg2 from "./icons/githubSvg2";
+import InstaSvg from "./icons/instaSvg";
+import TwitterSvg from "./icons/twitterSvg";
 
 function ChildFooter({ features = [], title, link = "#" }) {
   return (
