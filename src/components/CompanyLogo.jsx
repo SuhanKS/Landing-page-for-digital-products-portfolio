@@ -1,8 +1,8 @@
-import AirbnbSvg from "./icons/airbnbSVG";
-import GoogleSvg from "./icons/googleSVG";
+import AirbnbSvg from "./icons/airbnbSvg";
+import GoogleSvg from "./icons/googleSvg";
 import MalichimpSvg from "./icons/malichimpSvg";
 import MashableSvg from "./icons/mashableSvg";
-import MicrosoftSvg from "./icons/microsoftSVG";
+import MicrosoftSvg from "./icons/microsoftSvg";
 import SpotifySvg from "./icons/spotifySvg";
 
 export default function CompanyLogo() {
