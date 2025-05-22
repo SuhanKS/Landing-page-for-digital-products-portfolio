@@ -1,5 +1,5 @@
 import "./App.css";
-import CompanyLogo from "./component/CopanyLogos";
+import CompanyLogo from "./component/CompanyLogo";
 import Faq from "./component/Faq";
 import Footer from "./component/Footer";
 import Header from "./component/Header";
